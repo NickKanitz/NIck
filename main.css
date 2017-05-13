@@ -48,7 +48,7 @@ header#page_header nav ul li{
             }
 #page_header{
   position: fixed;
-  float: top left
+  float: top left;
   margin-top: 0px;
   margin-left 0px;
 }
