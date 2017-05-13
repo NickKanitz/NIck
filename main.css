@@ -2,3 +2,10 @@
   font-size: 2em;
   background-color: #FFFFFF
 }
+body {
+    color: blue;
+}
+
+h1 {
+    color: green;
+}
