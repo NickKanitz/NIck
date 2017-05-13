@@ -45,3 +45,7 @@ header#page_header nav ul li{
             a:hover{
                 background-color: #432234;
             }
+#page_header{
+  position: fixed;
+  margin-top: 0px;
+}
