@@ -9,5 +9,6 @@ body {
 
 h1 {
    color: orange;
-    font-size: 250px;
+    font-size: 125px;
+  text-align: center;
 }
