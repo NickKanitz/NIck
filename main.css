@@ -54,6 +54,8 @@ header#page_header nav ul li{
 #barl{
   position: absolute;
   left: 0px;
+  padding: 0px;
+  margin: 0px;
 }
 #barn{
   position: absolute;
