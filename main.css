@@ -29,11 +29,10 @@ header#page_header nav ul li{
             
             a{
                 text-decoration: none;
-                float: left;
+                float: top-left;
                 height: 40px;
                 line-height: 40px;
                 padding: 0 10px;
-                margin: 0 5px;
                 border-top-left-radius: 8px;
                 border-top-right-radius: 8px;
                 background-color: #12aa21;
