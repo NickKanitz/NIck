@@ -10,16 +10,11 @@ body {
 }
 
 h1 {
-   color: blue;
+   color: lightblue;
     font-size: 85px;
   text-align: center;
 }
-iframe {
-    margin: auto;
-    width: 50%;
-    border: 3px solid green;
-    padding: 10px;
-} 
+
 .table1{
   font-size: 4em;
   float: top left;
