@@ -1,14 +1,12 @@
 .hey {
   font-size: 2em;
-  background-color: #fd0000
 }
+
 body {
-    color: blue;
+  color: blue;
+  background-color: lightblue;
 }
 
 h1 {
-    color: orange;
-}
-body {
-    background-color: lightblue;
+   color: orange;
 }
